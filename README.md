@@ -14,6 +14,7 @@ No pases a la segunda parte si no tienes resuelta la primera.
 ## II Parte
 
 ¿Has terminado la primera parte?
+
 Ahora refactoriza tu código para que cuando el número esté en 0 no baje a números negativos y permanezca en 0.
 
 ## ¿Qué aprenderemos?
